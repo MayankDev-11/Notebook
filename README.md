@@ -21,3 +21,10 @@ please go to the link below this line:<br>
 
 Source code : https://github.com/MayankDev-11/Notebook/blob/main/Notes.py
 Images : https://github.com/MayankDev-11/Notebook/tree/main/Images
+
+
+| Module        | Installation           |
+| ------------- |:-------------:|
+| pyttxs3      | pip install pyttxs3 |
+| os      | Default      |
+| tkinter | Default      |
