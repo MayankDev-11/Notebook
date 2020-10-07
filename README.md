@@ -19,7 +19,7 @@ https://github.com/MayankDev-11/Notebook/blob/main/Notes.py
 --> If you want to make this you might need the images that i have used as it consists a good amount of images in it,if you want the link to image and code
 please go to the link below this line:<br>
 
-Source code : https://github.com/MayankDev-11/Notebook/blob/main/Notes.py
+Source code : https://github.com/MayankDev-11/Notebook/blob/main/Notes.py<br>
 Images : https://github.com/MayankDev-11/Notebook/tree/main/Images
 
 
