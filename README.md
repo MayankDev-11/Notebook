@@ -10,5 +10,3 @@ This has many features like:
 * It has a feature that can read out your text
 * It has the feature to save and open the file.
 
-
-![Main application](C:\Users\Mayank\OneDrive\Documents\Python\Python projects\Images\download.ico)
