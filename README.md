@@ -12,5 +12,5 @@ This has many features like:
 
 
 # How to use
---> If you just want to read the link , please follow the link below.\n
+--> If you just want to read the link , please follow the link below.<br>
 https://github.com/MayankDev-11/Notebook/blob/main/Notes.py
