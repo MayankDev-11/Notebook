@@ -9,3 +9,7 @@ This has many features like:
 * It can change the style,color,size of the font
 * It has a feature that can read out your text
 * It has the feature to save and open the file.
+
+
+# How to use
+--> If you just want to read the link,please follow the link below.
